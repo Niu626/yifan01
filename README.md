@@ -7,7 +7,7 @@
 Yue, S., Wei, M., et al.: Robust pixel-wise
 illuminant estimation algorithm for images
 with a low bit-depth. Optics express 32(15),
-26708–26718 (2024)
+26708–26718 (2024) https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation
 ### 2. 下载预训练模型  
 预训练模型下载链接：[Quark Link](https://pan.quark.cn/s/2118ea3c447b)  
 下载后，请将模型文件放入项目根目录下的 `pretrained_models` 文件夹中。
