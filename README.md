@@ -1,5 +1,4 @@
-# LGHA-Net: Local-Global Hybrid Attention for Pixel-Wise
-Multi-Illuminant Estimation
+# LGHA-Net: Local-Global Hybrid Attention for Pixel-Wise Multi-Illuminant Estimation
 
 ## Pre-requites
 
