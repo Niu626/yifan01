@@ -1,4 +1,5 @@
-# LGHA-Net: Robust Pixel-wise Illumination Estimation for Low Bit-Depth Images via a Hybrid U-Net
+# LGHA-Net: Local-Global Hybrid Attention for Pixel-Wise
+Multi-Illuminant Estimation
 
 ## Pre-requites
 
