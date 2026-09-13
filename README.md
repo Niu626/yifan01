@@ -1,5 +1,4 @@
-# LGHA-Net: Local-Global Hybrid Attention for Pixel-Wise Multi-Illuminant Estimation under
-Low-Bit-Depth Degradation
+# LGHA-Net: Local-Global Hybrid Attention for Pixel-Wise Multi-Illuminant Estimation under Low-Bit-Depth Degradation
 
 ## Pre-requites
 
